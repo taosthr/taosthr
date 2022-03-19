@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently learning to code at THP bootcamp**
+- 🔭 I’m currently learning to code at **THP bootcamp**
 
 - 🌱 I’m currently learning **Ruby** 
 
