@@ -7,11 +7,9 @@
 
 
 
-- 🔭 I’m currently learning to code at **THP bootcamp**
+- 🌱 I’m currently learning to code at **THP bootcamp**
 
-- 🌱 I’m currently learning **Ruby** 
-
-- ⚡ Fun fact ** i'm a biochemistry and ex project manager in tech field**
+- ⚡ Fun fact i'm a **biochemistry** and **ex project manager** in tech field
 
 
 <h3 align="left">Connect with me:</h3>
