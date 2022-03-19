@@ -6,12 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taosthr&label=Profile%20views&color=0e75b6&amp;style=flat" alt="taosthr" /> </p>
 
 
-
 - 🌱 I’m currently learning to code at **THP bootcamp**
 
 - ⚡ Fun fact i'm a **biochemistry** and **ex project manager** in tech field
 
-- 💬 Feel free to reach me on Linkedin at @taos touahria
+
+- 💬 Feel free to reach me on Linkedin
+
 
 
 <h3 align="left">Connect with me:</h3>
