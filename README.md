@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact i'm a **biochemistry** and **ex project manager** in tech field
 
-- 💬 Feel free to reach me on Linkedin at @taos touahria
+- 💬 Feel free to reach me on Linkedin
 
 
 <h3 align="left">Connect with me:</h3>
