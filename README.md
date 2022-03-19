@@ -5,13 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taosthr&label=Profile%20views&color=0e75b6&amp;style=flat" alt="taosthr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taosthr" alt="taosthr" /></a> </p>
 
-- 🔭 I’m currently working on **Animalib**
 
-- 🌱 I’m currently learning **Ruby**
+- 🔭 I’m currently learning to code at THP bootcamp**
 
-- ⚡ Fun fact **I think I am funny**
+- 🌱 I’m currently learning **Ruby** 
+
+- ⚡ Fun fact ** i'm a biochemistry and ex project manager in tech field**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
