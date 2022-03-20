@@ -29,9 +29,10 @@
 
 <h2 align="left">Github Overview</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taosthr&label=Profile%20views&color=0e75b6&amp;style=flat" alt="taosthr" /> </p>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taosthr&show_icons=true&locale=en&layout=compact" alt="taosthr" /></p>
-
+<br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=taosthr&show_icons=true&locale=en" alt="taosthr" /></p>
-
+<br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taosthr&" alt="taosthr" /></p>
 
